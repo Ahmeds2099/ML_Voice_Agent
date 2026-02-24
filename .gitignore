@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Project specific
+old_files/
+agent_memory.json
+training_data/
+temp_*.wav
+.env
+
+# OS
+.DS_Store
+Thumbs.db
