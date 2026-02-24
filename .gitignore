@@ -14,6 +14,7 @@ build/
 
 # Project specific
 Old_Files
+Docs/
 ML_Classifier_Summary.md
 TO_DO.txt
 agent_memory.json
@@ -24,4 +25,3 @@ temp_*.wav
 # OS
 .DS_Store
 Thumbs.db
-Old_Files/
