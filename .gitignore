@@ -13,7 +13,9 @@ build/
 *.swp
 
 # Project specific
-Old_Files/
+Old_Files
+ML_Classifier_Summary.md
+TO_DO.txt
 agent_memory.json
 training_data/
 temp_*.wav
