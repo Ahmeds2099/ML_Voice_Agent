@@ -13,7 +13,7 @@ build/
 *.swp
 
 # Project specific
-old_files/
+Old_Files/
 agent_memory.json
 training_data/
 temp_*.wav
@@ -22,3 +22,4 @@ temp_*.wav
 # OS
 .DS_Store
 Thumbs.db
+Old_Files/
